@@ -1,0 +1,4 @@
+#+Title: Attempted Text Editor
+#+Author: Arsalan Kazmi
+
+=ed(1)= on negative steroids.
